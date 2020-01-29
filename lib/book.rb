@@ -11,6 +11,8 @@ class Book
     @page_count = num
   end
 
-
+  def turn_page
+    
+  end
   
 end
